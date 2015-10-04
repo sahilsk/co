@@ -9,6 +9,10 @@
   Generator based control flow goodness for nodejs and the browser,
   using promises, letting you write non-blocking code in a nice-ish way.
 
+## Why co?
+
+Read [here](http://chrisbuttery.com/articles/synchronous-asynchronous-javascript-with-es6-generators/)
+
 ## Co v4
 
   `co@4.0.0` has been released, which now relies on promises.
